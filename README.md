@@ -1,46 +1,33 @@
-# Front End Toolkit
+Devbridge Final Project - Front-end Development
 
-## Starter Template
+#Overview
 
-This project is a set of best practices brought to you by the team at Devbridge, which will allow you to start project quickly, non depending from any javascript framework.
-Features, that are already here:
+This is the final project for the Front-end Development course, created by a team of students at Devbridge Sourcery Academy. The project was built using React.js and vanilla JavaScript, without the use of any external libraries.
 
-- Webpack dev server with Hot Module Reload feature.
-- Linting integration and configuration.
-- Pre-commit hooks, to keep project "clean".
-- Component based development approach, which will help to transfer code on whatever front-end framework you want or just use it as a plain HTML site generator.
-- Prepared code hygiene tools, like editor config, nvmrc, npmrc files, and small things, like npm scripts.
+The project was completed over a two-month period, during which the team attended online lectures and worked on the project. The goal of the project was to demonstrate a mastery of React.js and JavaScript, as well as the ability to work effectively in a team.
 
-## Installation
+#Features
 
-Switch to right node version using [nvm](https://github.com/creationix/nvm). (Which node version is required defined in [.nvmrc](https://github.com/devbridge/Front-End-Toolkit/blob/v2-dev/.nvmrc) file):
+Built with React.js and vanilla JavaScript
+Implements various React.js concepts and features
+Designed and developed by a team of front-end developers
+Completed in a two-month period, during online lectures
 
-    $ nvm use [version number from .nvmrc file]
+#Installation and Usage
 
-Inside project folder install dependencies from package.json:
+To run the project, clone the repository and run the following commands:
+npm install
+npm start
 
-    $ npm i
+This will install the necessary dependencies and start a local development server, allowing you to view the project in your browser.
 
-To start developing run npm script command:
+#Contributors
+Laima Prokofjova, 
+Vilius, 
+Matas,
+Adrijanas
 
-    $ npm start
 
-    $ npm run dev
-
-    $ npm run build
-
-    $ npm run stylelint:lint
-
-    $ npm run stylelint:fix
-
-    $ npm run prettier:check
-
-    $ npm run prettier:fix
-
-    $ npm run ts:lint
-
-    $ npm run ts:fix
-
-## License
+##License
 
 The MIT License (MIT).
